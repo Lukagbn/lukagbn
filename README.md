@@ -1,10 +1,6 @@
 <div align="center">
-  
-<img src="./assets/header.svg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Luka%20Gabunia&fontSize=50&fontColor=22C1C3&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C1C3&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%2B+React+Native+Enthusiast;TypeScript+%2F+JavaScript;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Luka%20Gabunia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Animated Waving Header"/>
 
 </div>
 
@@ -18,7 +14,6 @@
 - 📱 I build for **web** (React / Next.js) and **mobile** (React Native / Expo).
 - 🌱 Currently sharpening my skills with **TypeScript**, **Redux Toolkit**, and clean architecture.
 - 💡 Every project below is self-built end-to-end — frontend, state management, and API integration.
-- ⚡ Fun fact: I'd rather debug a tricky state bug at 2 AM than leave it for tomorrow.
 
 <br clear="both"/>
 
@@ -76,7 +71,7 @@ E-commerce web app in **Next.js + TypeScript** — category browsing, price/rati
 <tr>
 <td width="50%" valign="top">
 
-**📱 [Mobile Store (react-native-2)](https://github.com/Lukagbn/react-native-2)**
+**📱 [Mobile Store](https://github.com/Lukagbn/react-native-2)**
 Cross-platform **React Native + Expo Router** e-commerce app — auth, product browsing, persistent cart via AsyncStorage, and profile image upload.
 `React Native` `Expo` `TypeScript`
 
@@ -123,13 +118,11 @@ Classic 2-player Tic Tac Toe with custom CSS-drawn marks, a winner overlay, and 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:luka68690@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/lukagbn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luka-gabunia-33682a338/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
-  
-  <img src="./assets/footer.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Animated Waving Footer"/>
 </div>
