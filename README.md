@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="240" align="right" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240" align="right" alt="Coding GIF"/>
 
 - 🧑‍💻 I'm a **MERN Stack Developer** who loves turning ideas into real, working products.
 - 📱 I build for **web** (React / Next.js) and **mobile** (React Native / Expo).
