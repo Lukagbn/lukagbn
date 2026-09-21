@@ -107,14 +107,6 @@ Classic 2-player Tic Tac Toe with custom CSS-drawn marks, a winner overlay, and 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukagbn&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
